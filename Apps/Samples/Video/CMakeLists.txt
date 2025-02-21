@@ -1,0 +1,1 @@
+ScaleformStandardSample(VideoBGLoad)
